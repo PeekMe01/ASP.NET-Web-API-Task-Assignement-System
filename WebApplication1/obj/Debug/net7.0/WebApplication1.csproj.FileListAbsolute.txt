@@ -1,0 +1,187 @@
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.json
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\bin\Debug\net7.0\Humanizer.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+C:\Users\HP\Desktop\Semester6\advanced programing\week 6\WebApplication1\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.json
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\bin\Debug\net7.0\Humanizer.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+C:\Users\HP\Desktop\Semester6\advanced programing\week 7\WebApplication1\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.json
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\bin\Debug\net7.0\Humanizer.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+C:\Users\HP\Desktop\Semester6\advanced programing\project\WebApplication1\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\appsettings.json
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\Humanizer.dll
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\MySqlConnector.dll
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\System.CodeDom.dll
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\System.Web.Http.dll
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\Unity.Abstractions.dll
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\Unity.Container.dll
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\Unity.WebApi.dll
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\1- Antonine University\6th Semester\2- Advanced Programming\Project\Project\backend\finaladvancedserver\WebApplication1\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
